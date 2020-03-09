@@ -1,0 +1,50 @@
+html, body {
+    height: 100%;
+}
+.input {
+    width: 100%;
+    padding: 1em;
+    line-height: 1.4;
+    background-color: rgb(247, 242, 242);
+    background-image: linear-gradient(to right, #f2f2f2, #ececed, #e4e7e8, #dee2e1, #d9dcd9);
+}
+
+.container {
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+background-image: linear-gradient(to right top, #2dd50b, #2dcc0a, #2dc409, #2dbb09, #2db308);
+}
+
+.mainbox {
+    display: flex;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    background-color:rgb(249, 250, 249);
+    -webkit-box-shadow: 0px 4px 5px 3px rgba(18,168,18,1);
+    -moz-box-shadow: 0px 4px 5px 3px rgba(18,168,18,1);
+    box-shadow: 0px 4px 5px 3px rgba(18,168,18,1);
+}
+
+.flex {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.input {
+        width: 100%;
+        padding: 1em;
+        line-height: 1.4;
+        background-color: @grey-lightest;
+}
+
+.input2 {
+    width: 100%;
+    padding: 1em;
+    line-height: 1.4;
+    background-color: green;
+    color: white;
