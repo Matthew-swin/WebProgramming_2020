@@ -1,13 +1,6 @@
 html, body {
     height: 100%;
 }
-.input {
-    width: 100%;
-    padding: 1em;
-    line-height: 1.4;
-    background-color: rgb(247, 242, 242);
-    background-image: linear-gradient(to right, #f2f2f2, #ececed, #e4e7e8, #dee2e1, #d9dcd9);
-}
 
 .container {
 height: 100vh;
@@ -21,30 +14,38 @@ background-image: linear-gradient(to right top, #2dd50b, #2dcc0a, #2dc409, #2dbb
 .mainbox {
     display: flex;
     height: 300px;
-    width: 400px;
+    width: 370px;
     margin: auto;
     background-color:rgb(249, 250, 249);
-    -webkit-box-shadow: 0px 4px 5px 3px rgba(18,168,18,1);
-    -moz-box-shadow: 0px 4px 5px 3px rgba(18,168,18,1);
     box-shadow: 0px 4px 5px 3px rgba(18,168,18,1);
 }
 
 .flex {
     justify-content: center;
-    align-items: center;
+    align-content: center;
     margin: auto;
 }
 
 .input {
-        width: 100%;
+        width: 270px;
         padding: 1em;
         line-height: 1.4;
-        background-color: @grey-lightest;
+        background-color: rgb(224, 224, 224);
+        
 }
 
 .input2 {
-    width: 100%;
+    width: 300px;
     padding: 1em;
     line-height: 1.4;
     background-color: green;
     color: white;
+}
+
+p {
+    padding-left: 45px;
+    color: grey;
+}
+a {
+    color: green;
+}
