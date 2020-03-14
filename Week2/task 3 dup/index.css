@@ -1,0 +1,163 @@
+body {
+    height: 100%;
+  margin: 0% 10% 0% 10%;
+ align-content: center;
+  background-color: rgb(43, 2, 43);  
+}
+
+h2 {
+    margin: 0;
+    padding-left: 280px;
+    padding-right: 250px;
+    padding-bottom: 10%;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    font-weight: lighter;
+}
+
+.box {
+    margin: 0;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 20%;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+
+
+p {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.bigboi {
+    font-size: 50px;
+}
+
+.purp {
+    color: purple;
+}
+
+.box2 {
+    padding-left: 5%;
+    margin: 0;
+    height: 20%;
+    background-color: white; 
+    border-bottom: dotted;
+    border-bottom-width: thin;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 85% 15%;
+    height: 40%;
+    padding-left: 5%;
+    background-color: white;
+}
+
+.white {
+    background-color: white;
+    align-self: center;
+    justify-items: stretch;
+    font-size: 50px;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+    font-size: 120px;
+    font-weight: bolder;
+    padding-left: 25%;
+}
+
+.container2 {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    height: 40%;
+    background-color:purple;
+    padding-top: 2%;
+    font-size: 32px;
+    color: white;
+}
+
+
+
+.gitgud {
+    padding: 14%;
+    margin-left: 10%;
+}
+
+.gitgud2 {
+    padding: 14%;
+    background-color: rgb(185, 21, 185);
+    padding-left: 24%;
+}
+
+.yaya {
+    color: white;
+    font-size: 34px;
+    padding: 5%;
+}
+
+.yaya2 {
+    color: white;
+    font-size: 34px;
+    padding: 5%;
+    background-color: rgb(185, 21, 185);
+}
+
+
+ul {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blackie {
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.whitie {
+    color: black;
+    font-weight: lighter;
+}
+
+.container3 {
+    margin: 0;
+    background-color: black;
+}
+
+.no {
+    font-size: 50px;
+}
+
+.p1 {
+    font-size: 24px;
+    padding-left: 22%;
+    padding-bottom: 1%;
+}
+
+.p2 {
+font-size: 20px;
+padding-left: 8%;
+}
+
+.p3 {
+    font-size: 25px;
+    padding-left: 26%;
+}
+
+
+.p4 {
+    font-size: 20px;
+    padding-left: 36%;
+}

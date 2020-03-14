@@ -24,9 +24,12 @@ background-image: linear-gradient(to right top, #2dd50b, #2dcc0a, #2dc409, #2dbb
     justify-content: center;
     align-content: center;
     margin: auto;
+    border: none;
 }
 
 .input {
+        font-size: 15px;
+        border: none;
         width: 270px;
         padding: 1em;
         line-height: 1.4;
@@ -35,7 +38,10 @@ background-image: linear-gradient(to right top, #2dd50b, #2dcc0a, #2dc409, #2dbb
 }
 
 .input2 {
-    width: 300px;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    width: 298px;
     padding: 1em;
     line-height: 1.4;
     background-color: green;
@@ -49,3 +55,4 @@ p {
 a {
     color: green;
 }
+

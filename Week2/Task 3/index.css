@@ -1,3 +1,27 @@
-.pickme {
-    color: yellow;
+html, body {
+    margin: 0;
+}
+
+
+h3 {
+    margin: 0;
+    padding-left: 45%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.border {
+
+    height: 100vh;
+    background-color: rgb(26, 0, 75);
+}
+
+.container {
+ padding-left: 10%;
+ padding-top: 10%;
+ padding-right: 10%;
+ padding-bottom: 10%;
+ justify-content: center;
+
 }
