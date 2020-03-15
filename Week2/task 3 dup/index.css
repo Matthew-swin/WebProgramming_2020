@@ -1,13 +1,17 @@
 body {
-    height: 100%;
-  margin: 0% 10% 0% 10%;
- align-content: center;
-  background-color: rgb(43, 2, 43);  
+    margin: 0;
+    background-color: rgb(43, 2, 43); 
+}
+
+.body {
+  height: 100%;
+  margin: 0% 10% 3% 10%;
+   
 }
 
 h2 {
     margin: 0;
-    padding-left: 280px;
+    padding-left: 500px;
     padding-right: 250px;
     padding-bottom: 10%;
     color: white;
@@ -37,7 +41,7 @@ p {
 
 
 .bigboi {
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .purp {
@@ -65,7 +69,7 @@ p {
     background-color: white;
     align-self: center;
     justify-items: stretch;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .purple {
@@ -73,7 +77,7 @@ p {
     color: white;
     font-size: 120px;
     font-weight: bolder;
-    padding-left: 25%;
+    padding-left: 34%;
 }
 
 .container2 {
@@ -83,7 +87,7 @@ p {
     height: 40%;
     background-color:purple;
     padding-top: 2%;
-    font-size: 32px;
+    font-size: 45px;
     color: white;
 }
 
@@ -92,6 +96,7 @@ p {
 .gitgud {
     padding: 14%;
     margin-left: 10%;
+    padding-right: 5%;
 }
 
 .gitgud2 {
@@ -102,13 +107,13 @@ p {
 
 .yaya {
     color: white;
-    font-size: 34px;
+    font-size: 50px;
     padding: 5%;
 }
 
 .yaya2 {
     color: white;
-    font-size: 34px;
+    font-size: 50px;
     padding: 5%;
     background-color: rgb(185, 21, 185);
 }
@@ -129,7 +134,9 @@ ul {
 .whitie {
     color: black;
     font-weight: lighter;
+    padding-left: 15%;
 }
+
 
 .container3 {
     margin: 0;
@@ -137,27 +144,27 @@ ul {
 }
 
 .no {
-    font-size: 50px;
+    font-size: 80px;
 }
 
 .p1 {
     font-size: 24px;
-    padding-left: 22%;
+    padding-left: 30%;
     padding-bottom: 1%;
 }
 
 .p2 {
 font-size: 20px;
-padding-left: 8%;
+padding-left: 18%;
 }
 
 .p3 {
     font-size: 25px;
-    padding-left: 26%;
+    padding-left: 33%;
 }
 
 
 .p4 {
     font-size: 20px;
-    padding-left: 36%;
+    padding-left: 40%;
 }
