@@ -1,0 +1,11 @@
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\obj\Debug\netcoreapp3.1\Cboiz.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\obj\Debug\netcoreapp3.1\Cboiz.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\obj\Debug\netcoreapp3.1\Cboiz.AssemblyInfo.cs
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\bin\Debug\netcoreapp3.1\Cboiz.exe
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\bin\Debug\netcoreapp3.1\Cboiz.deps.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\bin\Debug\netcoreapp3.1\Cboiz.runtimeconfig.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\bin\Debug\netcoreapp3.1\Cboiz.runtimeconfig.dev.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\bin\Debug\netcoreapp3.1\Cboiz.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\bin\Debug\netcoreapp3.1\Cboiz.pdb
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\obj\Debug\netcoreapp3.1\Cboiz.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\Cboiz\obj\Debug\netcoreapp3.1\Cboiz.pdb
