@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="inputs">
+            <input id= "ffs" type="text">
+            <button id="dabutton">Click</button>
+
+        </div>
+
+        <div class="elements" id="elements">
+
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        let dabutton = document.getElementById("dabutton");
+        let elements = document.getElementById("elements");
+        let ffs = document.getElementById("ffs");
+
+        dabutton.onclick = function() {
+        let MyNewElement = document.createElement("div");
+
+        let MyElementText = document.createTextNode("ffs");
+        MyNewElement.appendChild(MyElementText);
+        elements.appendChild(MyNewElement);
+        console.log(MyNewElement);
+
+        }
+    </script>
+</body>
+</html> 
