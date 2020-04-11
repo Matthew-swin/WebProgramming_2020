@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="inputs">
+            <form id="daform">
+            <input id= "ffs" type="text">
+            <button id="dabutton">Add</button>
+            </form>
+            
+
+        </div>
+
+        <div class="elements" id="elements">
+            
+
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        let form = document.getElementById("daform") 
+        let dabutton = document.getElementById("dabutton");
+        let elements = document.getElementById("elements");
+        let ffs = document.getElementById("ffs");
+
+        dabutton.onclick = function(event) {
+            event.preventDefault();
+        let MyNewElement = document.createElement("div");
+        
+        let MyElementText = (document.createTextNode(ffs.value));
+        MyNewElement.appendChild(MyElementText);
+        elements.appendChild(MyNewElement);
+    
+        }
+
+        elements.onclick = function() {
+        this.childNodes.style.background = "green";
+        }
+    </script>
+</body>
+</html> 

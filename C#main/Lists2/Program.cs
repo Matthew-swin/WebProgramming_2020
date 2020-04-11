@@ -20,7 +20,7 @@ namespace List2
                 
             }
         
-            Console.WriteLine("Now, Please Enter a number to check against the list?");
+            Console.WriteLine("Enter a number to check against your list?");
             int unumber = int.Parse(Console.ReadLine());
 
 
