@@ -30,12 +30,14 @@
         let ffs = document.getElementById("ffs");
 
         dabutton.onclick = function(event) {
-            event.preventDefault();
-        let MyNewElement = document.createElement("div");
+        event.preventDefault();
         
+        let MyNewElement = document.createElement("div");
         let MyElementText = (document.createTextNode(ffs.value));
-        MyNewElement.appendChild(MyElementText);
+
         elements.appendChild(MyNewElement);
+        MyNewElement.appendChild(MyElementText);
+        
     
         }
 

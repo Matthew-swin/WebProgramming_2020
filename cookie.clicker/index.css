@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+.heading {
+margin: 0;
+text-align: center;
+}
+
+.container {
+display: grid;
+grid-template-columns: 33.3% 33.3% 33.3% 
+
+}
+
+.cookie {
+
+text-align: center;
+background-image: url(1.gif);
+background-size: cover;
+background-repeat: repeat-y no-repeat;
+padding: 5%;
+}
+
+.upgrades {
+border-right: 5px groove rgba(33,84,3,0.83);
+border-bottom: 5px groove rgba(33,84,3,0.83);
+border-left: 5px groove rgba(33,84,3,0.83);
+text-align: center;
+background-color: black;
+background-image: url(rain.gif);
+background-size: cover;
+background-repeat: repeat-y no-repeat;
+}
+
+.upgrades1 {
+    border-right: 5px groove rgba(33,84,3,0.83);
+    border-bottom: 5px groove rgba(33,84,3,0.83);
+    border-left: 5px groove rgba(33,84,3,0.83);
+    text-align: center;
+    background-image: url(rain.gif);
+    background-size: cover;
+    background-repeat: repeat-y no-repeat;
+    
+    }
+
+.log {
+    margin: 0;
+    text-align: center;
+    }
+
+.counter {
+    color: white;
+    font-family: 'Arvo', serif;
+    padding-right: 60%;
+}
+
+
+.cook:hover {
+    -webkit-transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    -ms-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    opacity: 1;
+    transform: scale(1.10);
+    -ms-transform: scale(1.10);
+    -webkit-transform: scale(1.10); 
+}
+
+.sexyboi {
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+    
+    
+
+}
+
+.easter {
+    padding-left: 1%;
+font-size: 30px;
+color: rgb(25, 230, 117);
+}
+
+.egg {
+padding-left: 1%;
+font-size: 10px;
+color: black;
+}
+
+.boiz {
+padding-left: 3%;
+font-size: 30px;
+color: rgb(219, 20, 20);
+}
+
+.upgradehead {
+    background-color: black; 
+    margin-top: 0%;
+    font-size: 50px;
+    color: rgb(25, 230, 117);
+}
+
+.upgradehead2 {
+    background-color: black; 
+    margin-top: 0%;
+    font-size: 50px; 
+    color: rgb(219, 20, 20);
+}
+
+.button1 {
+    color: rgb(25, 230, 117);
+    background-color: black;
+    border: 0;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10%;
+}
+
+.button2 {
+    color: rgb(219, 20, 20);
+    background-color: black;
+    border: 0;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10%;
+}
+
