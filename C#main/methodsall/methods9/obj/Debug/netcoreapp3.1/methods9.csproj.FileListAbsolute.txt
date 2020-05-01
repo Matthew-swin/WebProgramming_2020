@@ -1,0 +1,11 @@
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\bin\Debug\netcoreapp3.1\methods9.exe
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\bin\Debug\netcoreapp3.1\methods9.deps.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\bin\Debug\netcoreapp3.1\methods9.runtimeconfig.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\bin\Debug\netcoreapp3.1\methods9.runtimeconfig.dev.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\bin\Debug\netcoreapp3.1\methods9.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\bin\Debug\netcoreapp3.1\methods9.pdb
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\obj\Debug\netcoreapp3.1\methods9.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\obj\Debug\netcoreapp3.1\methods9.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\obj\Debug\netcoreapp3.1\methods9.AssemblyInfo.cs
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\obj\Debug\netcoreapp3.1\methods9.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods9\obj\Debug\netcoreapp3.1\methods9.pdb
