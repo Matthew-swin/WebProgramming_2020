@@ -1,0 +1,11 @@
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\obj\Debug\netcoreapp3.1\methods4.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\obj\Debug\netcoreapp3.1\methods4.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\obj\Debug\netcoreapp3.1\methods4.AssemblyInfo.cs
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\bin\Debug\netcoreapp3.1\methods4.exe
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\bin\Debug\netcoreapp3.1\methods4.deps.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\bin\Debug\netcoreapp3.1\methods4.runtimeconfig.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\bin\Debug\netcoreapp3.1\methods4.runtimeconfig.dev.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\bin\Debug\netcoreapp3.1\methods4.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\bin\Debug\netcoreapp3.1\methods4.pdb
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\obj\Debug\netcoreapp3.1\methods4.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods4\obj\Debug\netcoreapp3.1\methods4.pdb

@@ -1,0 +1,11 @@
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\obj\Debug\netcoreapp3.1\methods5.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\obj\Debug\netcoreapp3.1\methods5.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\obj\Debug\netcoreapp3.1\methods5.AssemblyInfo.cs
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\bin\Debug\netcoreapp3.1\methods5.exe
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\bin\Debug\netcoreapp3.1\methods5.deps.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\bin\Debug\netcoreapp3.1\methods5.runtimeconfig.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\bin\Debug\netcoreapp3.1\methods5.runtimeconfig.dev.json
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\bin\Debug\netcoreapp3.1\methods5.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\bin\Debug\netcoreapp3.1\methods5.pdb
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\obj\Debug\netcoreapp3.1\methods5.dll
+C:\Users\matth\Desktop\code\WebProgramming_2020\C#main\methods5\obj\Debug\netcoreapp3.1\methods5.pdb

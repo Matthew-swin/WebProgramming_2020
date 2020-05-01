@@ -6,7 +6,13 @@ namespace mothods1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            add(15,16);
+        }
+
+        public static void add (int num1, int num2)
+        {
+            Console.WriteLine(num1 + num2);
         }
     }
+
 }
